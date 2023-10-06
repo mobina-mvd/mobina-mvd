@@ -10,7 +10,20 @@
 mobina-mvd/mobina-mvd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+## Skills
+![Flutter](https://img.shields.io/badge/Flutter-%230175C2.svg?style=flat&logo=flutter&logoColor=FFFFFF)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=FFFFFF)
+<!---
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=222222)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)
+![GitLab](https://img.shields.io/badge/-GitLab-222222?style=flat&logo=GitLab&logoColor=FCC624)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat&logo=android-studio&logoColor=FFFFFF)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-000000?style=flat&logo=intellij-idea&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=222222)
+--->
 
 </br>
 </br>
