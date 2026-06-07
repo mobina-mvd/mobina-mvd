@@ -1,15 +1,70 @@
-<!---
-- 👋 Hi, I’m @mobina-mvd
-- 👀 I’m interested in Tecnology, Cycling, rally, nature, sea
-- 🌱 I’m currently learning ASP.net Core
-- 💞️ I’m looking to collaborate on web design Project 
-- 📫 Follow me on Instagram https://www.instagram.com/mobina_mvd & on Linkedin https://www.linkedin.com/in/mobinamovahedi/
---->
+👋 Hi, I'm Mobina
+🚀 Flutter Developer / Mobile Developer
 
-<!---
-mobina-mvd/mobina-mvd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Mid-level Flutter Developer passionate about building clean, scalable, and high-performance mobile applications.
+I enjoy turning complex problems into simple, beautiful, and user-friendly apps.
+
+🧠 About Me
+📱 Focused on Flutter mobile development
+🏗️ Experienced in building real-world production apps
+🔐 Strong experience with API integration & Authentication systems
+🧩 Clean architecture mindset with scalable code structure
+⚡ Love working with modern state management solutions
+🛠️ Tech Stack
+💙 Flutter & Mobile
+Flutter (Mid-level)
+Dart
+Material Design / UI Implementation
+🧠 State Management
+BLoC
+Provider
+Riverpod
+🔗 Backend & APIs
+RESTful APIs
+Authentication systems (Login / Register / Token-based auth)
+JSON handling
+🗄️ Tools & Others
+Git & GitHub
+Postman
+Clean Architecture (basic to intermediate understanding)
+📦 Featured Project
+🛍️ HeroShop (Private Project)
+
+A full-featured e-commerce mobile application built with Flutter.
+
+✨ Key Features:
+
+Product listing & categories
+Cart & checkout system
+User authentication (Login/Register)
+API-driven architecture
+Optimized state management using BLoC/Provider
+
+⚠️ This project is private but represents my real-world production experience.
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mobina-mvd&show_icons=true&theme=tokyonight" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobina-mvd&layout=compact&theme=tokyonight" height="160"/> </p>
+📈 Current Focus
+Improving architecture patterns in Flutter
+Building scalable production-level apps
+Enhancing performance optimization techniques
+Learning advanced state management patterns
+📬 Contact Me
+📧 Email: mobina.mvd22@gmail.com
+<!-- 💼 LinkedIn: https://linkedin.com/in/your-profile -->
+<!-- 💬 Telegram: @yourusername -->
+✨ Fun Fact
+
+“I don’t just write Flutter code — I build experiences.”
+
+🚀 Profile Goal
+
+This GitHub profile represents my journey as a Flutter Developer, focused on building real-world, scalable mobile applications and continuously improving my engineering skills.
+
+</br>
+</br></br>
+</br>
+
 ## Skills
 ![Flutter](https://img.shields.io/badge/Flutter-%230175C2.svg?style=flat&logo=flutter&logoColor=FFFFFF)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=FFFFFF)
