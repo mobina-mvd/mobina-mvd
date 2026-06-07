@@ -42,8 +42,7 @@ Optimized state management using BLoC/Provider
 
 ⚠️ This project is private but represents my real-world production experience.
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mobina-mvd&show_icons=true&theme=tokyonight" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobina-mvd&layout=compact&theme=tokyonight" height="160"/> </p>
+
 📈 Current Focus
 Improving architecture patterns in Flutter
 Building scalable production-level apps
